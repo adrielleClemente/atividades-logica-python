@@ -2,7 +2,7 @@
 
 Cada documento .py, do *diretório*, contém a resolução dos exercícios de cada link *abaixo*.
 
-São exercícios para iniciantes usarem a lógica de programação para resolver probemas. Uma ótima  maneira treinar a linguagem python, entre outras.
+São exercícios para iniciantes usarem a lógica de programação para resolver problemas. Uma ótima  maneira treinar a linguagem python, entre outras.
 
 É um meio que uso para praticar a linguagem e também matemática, logo os commits são resoluções de estudo dos problemas.
 
