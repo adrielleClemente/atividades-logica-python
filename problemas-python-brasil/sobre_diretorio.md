@@ -4,6 +4,9 @@ Cada documento .py, do *diretório*, contém a resolução dos exercícios de ca
 
 São exercícios para iniciantes usarem a lógica de programação para resolver probemas. Uma ótima  maneira treinar a linguagem python, entre outras.
 
+É um meio que uso para praticar a linguagem e também matemática, logo os commits são resoluções de estudo dos problemas.
+
+
 
 1.  [EstruturaSequencial](https://wiki.python.org.br/EstruturaSequencial)
     
@@ -23,4 +26,4 @@ São exercícios para iniciantes usarem a lógica de programação para resolver
     
 9.  [ListaDeExerciciosProjetos](https://wiki.python.org.br/ListaDeExerciciosProjetos)
 
-**FONTE:** [**wiki.python.org.br**]([ListaDeExercicios - PythonBrasil](https://wiki.python.org.br/ListaDeExercicios))
+**FONTE:** [**PythonBrasil** --> ListaDeExercicios - wiki.python.org.br](https://wiki.python.org.br/ListaDeExercicios)
